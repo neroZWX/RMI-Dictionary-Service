@@ -1,0 +1,100 @@
+1-appetizer£º a small portion of a food or drink served before or at the beginning of a meal to stimulate the appetite
+
+2-apperception£ºthe act or process of apperceiving
+
+3-RMI£» Remote method invocation
+
+4-appendicle£»a small appendage");
+
+5-apperceive£ºhave conscious perception of comprehend");
+
+6-appestat£ºa presumed region in the human brain");
+
+7-bargain£ºan agreement between parties");
+
+8-bunch£ºa cluster held together");
+
+9-blood£ºthe red fluid that flows through the heart throughout the body
+
+10-board£ºmaterial made in large sheets, as plasterboard
+
+11-catch£ºto seize or capture
+
+12-convey£ºto take from one place to anothertransport
+
+13-clumsy£ºawkwardly or poorly done
+
+14-custody£ºguardianship
+
+15-drifting£ºa driving movement, as of a current of water
+
+16-dazzling£ºto blind temporarily with bright light
+
+17-ecstasy£ºextreme joyfulness or happiness
+
+18-elaborate£ºworked out in great detail
+
+19-eliminate£ºto get rid of
+
+20-fabrication£ºthe making up or inventing of false stories
+
+21-fag£ºto fray or unlay the end of 
+
+22-faint£ºlacking brightness
+
+23-gadget£ºa small mechanical apparatus or electronic device
+
+24-gaff£ºan iron hook with a handle for pulling in or moving large fish
+
+25-gang£ºa group or band
+
+26-garret£ºan attic, usually a small, wretched one
+
+27-halt£ºa temporary or permanent stop
+
+28-hardcore£ºthose whose condition seems to be without hope of remedy or change
+
+29-harsh£ºnot gentle or pleasant
+
+30-ignite£ºto set on fire
+
+31-illusion£ºsomething that deceives one by producing a false impression of what is real
+
+32-immaculate£ºfree from stain
+
+33-immerse£ºto plunge into or place under a liquid
+
+34-jeopardized£ºcause danger, risk, or peril to
+
+35-kiln£ºa furnace or oven for burning, baking, or drying something
+
+36-laguna£ºa bay, inlet, or other narrow or shallow body of water
+
+37-macro£ºvery large in scale, scope, or capability
+
+38-magnificent£ºsplendid or impressive in appearance
+
+39-nasty£ºoffensive to taste, smell, or the senses in general
+
+40-obsessed£ºhaving an obsession 
+
+41-pageant£ºa parade in which the participants wear fancy, decorative costumes
+
+42-quail£ºa small, plump bird of the pheasant family
+
+43-racial£ºrelating to, or characteristic of one race or the races of humankind
+
+44-sack£ºa large bag of strong, rough, woven material, as for potatoes
+
+45-taoist£ºa popular Chinese religion, originating in the doctrines of Lao-tzu but later highly eclectic in nature and characterized by a pantheon of many gods and by the practice of alchemy, divination, and magic
+
+46-undergo£ºto be put through
+
+47-vague£ºnot clearly stated or expressed
+
+48-wallop£ºto defeat thoroughly, as in a game
+
+49-yield£ºto give up, as to superior power or authority
+
+50-zoom£ºto move quickly or suddenly with a loud humming or buzzing sound
+	
