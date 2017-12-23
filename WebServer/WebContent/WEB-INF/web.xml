@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>T</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	
+	<listener>	
+		<listener-class>ie.gmit.sw.DictionaryClientListener</listener-class>
+	</listener>
+
+	<servlet>
+		<servlet-name>QueryServlet</servlet-name>
+		<servlet-class>ie.gmit.sw.QueryServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>QueryServlet</servlet-name>
+		<url-pattern>/query</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>QueryResultServlet</servlet-name>
+		<servlet-class>ie.gmit.sw.QueryResultServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>QueryResultServlet</servlet-name>
+		<url-pattern>/queryResult</url-pattern>
+	</servlet-mapping>
+	
+</web-app>
